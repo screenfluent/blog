@@ -5,4 +5,3 @@ import { defineConfig } from 'astro/config';
    site: 'https://www.szymonraczka.com',
    trailingSlash: 'always', 
  });
- ```
